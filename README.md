@@ -1,7 +1,7 @@
 # Engenharia de Software
 
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
-![License](https://img.shields.io/static/v1?label=Estácio&message=Egenharia%20de%20Software&color=inactive)
+![License](https://img.shields.io/static/v1?label=Estácio&message=Engenharia%20de%20Software&color=inactive)
 
 ## Conteúdo Programático
 
